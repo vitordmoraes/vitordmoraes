@@ -3,9 +3,7 @@
 
 Tenho 28 anos, resido em Salvador-BA.<br>  
 Sou tecnico em automação por formação e desenvolvedor por vocação.<br> 
-Atualmente trabalho e estudo <b>Android</b> com foco em liguagem <b>Kotlin</b>
-
-
+Atualmente trabalho e estudo <b>Android</b> com foco em liguagem. <b>Kotlin</b>
 
 <a href="https://github.com/vitordmoraes/vitordmoraes/raw/main/Curr%C3%ADculo%20Vitor.pdf" target="_blank">Meu Currículo</a>
 <div>  
