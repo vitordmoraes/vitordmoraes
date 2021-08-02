@@ -1,7 +1,8 @@
 ## Olá, me chamo Vitor 👋
-### Atualmente trabalho e estudo Desenvolvimento Android com foco em Kotlin!
+### Atualmente trabalho com Desenvolvimento Android em Kotlin!
 
-###### • 📝 Currículo: https://pdfhost.io/v/f9u1pZi8v_Currculo_Vitor.pdf
+ <a href="https://github.com/vitordmoraes/vitordmoraes/raw/main/Curr%C3%ADculo%20Vitor.pdf" target="_blank">Meu Curriculo</a>
+
 <div> 
   <a href="https://www.linkedin.com/in/vitor-moraes-117958a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="vitordmoraes.93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
