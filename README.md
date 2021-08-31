@@ -22,3 +22,4 @@ Atualmente trabalho e estudo <b>Android</b> com foco em liguagem <b>Kotlin</b>.
   <img align="center" alt="Vitor-Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Vitor-Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
+  
