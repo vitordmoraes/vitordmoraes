@@ -1,7 +1,7 @@
 ## Olá, me chamo Vitor 👋
 ### Desenvolvedor Android
 
-Tenho 28 anos, resido em Salvador-BA.<br>  
+Tenho 30 anos, resido em Salvador-BA.<br>  
 Sou tecnico em automação por formação e desenvolvedor por vocação.<br> 
 Atualmente trabalho e estudo <b>Android</b> com foco em liguagem <b>Kotlin</b>.
 
