@@ -5,7 +5,7 @@ Tenho 30 anos, resido em Salvador-BA.<br>
 Sou tecnico em automação por formação e desenvolvedor por vocação.<br> 
 Atualmente trabalho e estudo <b>Android</b> com foco em liguagem <b>Kotlin</b>.
 
-<a href="https://github.com/vitordmoraes/vitordmoraes/raw/main/Curr%C3%ADculo%20Vitor.pdf" target="_blank">Meu Currículo</a>
+<a href="https://github.com/vitordmoraes/vitordmoraes/blob/main/Vitor%20Moraes%20Curriculo%20att.pdf" target="_blank">Meu Currículo</a>
 <div>  
   <a href="https://www.linkedin.com/in/vitor-moraes-117958a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto: vitordmoraes.93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
