@@ -11,12 +11,6 @@ Atualmente trabalho e estudo <b>Android</b> com foco em liguagem <b>Kotlin</b>.
     <a href="mailto: vitordmoraes.93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ##
-<div>
-  <a href="https://github.com/vitordmoraes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vitordmoraes&show_icons=true&theme=merko&include_all_commits=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordmoraes&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Java"src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img align="center" alt="Vitor-Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
